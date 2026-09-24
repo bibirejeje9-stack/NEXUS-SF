@@ -1,0 +1,1 @@
+import PageShell from "@/components/PageShell";export default function Page(){return <PageShell eyebrow="1:1 PERFORMANCE" title="COACHING BUILT AROUND YOU."><p className="max-w-2xl text-2xl text-white/60">One-to-one coaching built around assessment, intelligent programming, technique, progression, accountability and regular performance reviews.</p></PageShell>}
