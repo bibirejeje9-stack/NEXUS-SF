@@ -1,0 +1,1 @@
+import PageShell from "@/components/PageShell";export default function Page(){return <PageShell eyebrow="LEGAL" title="PRIVACY."><p className="text-white/55 max-w-2xl">Placeholder only. Final privacy language must be reviewed and approved for the operating business and its actual data practices before launch.</p></PageShell>}
