@@ -1,0 +1,1 @@
+import PageShell from "@/components/PageShell";export default function Page(){return <PageShell eyebrow="FAQ" title="GOOD QUESTIONS. CLEAR ANSWERS."><p className="text-xl text-white/55">Membership, parking, hours, training, consultation and guest policies will be published once business policies are finalized.</p></PageShell>}
