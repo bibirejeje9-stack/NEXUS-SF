@@ -1,0 +1,1 @@
+import PageShell from "@/components/PageShell";export default function Page(){return <PageShell eyebrow="LEGAL" title="TERMS."><p className="text-white/55 max-w-2xl">Placeholder only. Final membership and website terms must reflect the actual operating business and receive appropriate review before launch.</p></PageShell>}
