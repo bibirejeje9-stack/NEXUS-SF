@@ -1,0 +1,1 @@
+import PageShell from "@/components/PageShell";export default function Page(){return <PageShell eyebrow="COACHES" title="BEHIND YOUR PROGRESS."><p className="max-w-2xl text-xl text-white/60">Trainer profiles, verified certifications, specialties and booking links will appear here when the NEXUS coaching roster is confirmed.</p></PageShell>}
